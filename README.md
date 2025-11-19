@@ -36,10 +36,10 @@ Program mampu:
 ---
 
 ## Screenshot Output (Simulasi)
-![Screenshot Output](screenshot/Hasil.png)
+![Screenshot Output](Screenshot/Hasil.png)
 
 
 ---
 
 ## Diagram Class (UML)
-![Class Diagram](screenshot/Class.png)
+![Class Diagram](Screenshot/Class.png)
